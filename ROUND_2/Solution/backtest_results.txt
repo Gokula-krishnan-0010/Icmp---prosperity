@@ -1,0 +1,23 @@
+OLD ALGORITHM
+  final_pnl: 5784.5
+  max_drawdown: 528500.0
+  min_pnl: -264386.0
+  min_pnl_ts: 415300
+  time_to_profit: 500
+  total_ticks: 10000
+
+NEW ALGORITHM
+  final_pnl: 3833.5
+  max_drawdown: 277937.0
+  min_pnl: -90972.0
+  min_pnl_ts: 15600
+  time_to_profit: 500
+  total_ticks: 10000
+
+DELTAS
+  pnl_delta: -1951.0
+  pnl_pct: -33.72806638430288
+  dd_delta: 250563.0
+  dd_pct: 47.410217596972565
+  ttp_delta: 0
+  ttp_pct: 0.0
